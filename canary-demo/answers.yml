@@ -49,5 +49,5 @@ error_budget:
 
 # Additional Observations
 observations:
-  unexpected_behaviors: #TODO: List any unexpected behaviors you observed
+  unexpected_behaviors: prometheus_metrics_not_working #TODO: List any unexpected behaviors you observed
   suggested_improvements: #TODO: List any improvements you would suggest
